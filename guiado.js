@@ -1,0 +1,1 @@
+document.write("Hola, bienvenido a Git y GitHub");
